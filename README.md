@@ -1,2 +1,2 @@
 # deep-learning
-This is my learing project.
+This is a project for learning.
